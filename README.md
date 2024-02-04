@@ -1,4 +1,4 @@
-# Project Name
+# The-Odin-Project-Sign-up-Form
 
 Description of your project goes here.
 
@@ -53,4 +53,4 @@ Explain how others can contribute to your project.
 
 Copyright &copy; 2024 vpnSolutions.com. All Rights Reserved. <br>
 This project is licensed under the [MIT License](License.txt) - see the [MIT License](License.txt) file for details.
-# The-Odin-Project-Sign-up-Form
+
