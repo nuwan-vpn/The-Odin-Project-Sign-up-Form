@@ -13,6 +13,7 @@
 body{
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
 }
 
 .left{
@@ -42,6 +43,18 @@ body{
 
 .second{
     height: 33vh;
+    background-color: white;
+    margin-left: 5%;
+}
+
+.form-main{
+    display: flex;
+    flex-direction: row;
+}
+
+.form-divs{
+    display: flex;
+    flex-direction: column;
 }
 
 .third{
