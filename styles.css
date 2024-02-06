@@ -33,7 +33,7 @@ body{
 }
 
 .first{
-    height: 40vh;
+    height: 30vh;
     display: flex;
     justify-content: flex-start;
     align-items: flex-end;
@@ -42,9 +42,10 @@ body{
 }
 
 .second{
-    height: 30vh;
+    height: 40vh;
     background-color: white;
     margin-left: 5%;
+    box-shadow: 2px 5px #E5E7EB;
 }
 
 .form-main{
@@ -88,11 +89,12 @@ input:focus{
     width: 175px;
     font-weight: bolder;
     font-size: small;
+    box-shadow: 2px 5px #E5E7EB;
 }
 
 .third{
     height: 30vh;
-    margin: 50px;
+    margin: 30px;
 }
 
 .login{
