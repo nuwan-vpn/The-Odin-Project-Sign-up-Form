@@ -10,6 +10,7 @@
     height: 100vh;
 }
 
+
 body{
     margin: 0;
     padding: 0;
@@ -22,6 +23,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
+    display: flex;
+    flex-direction: column;
 }
 
 
@@ -102,7 +105,26 @@ input:focus{
     font-weight: bold;
 }
 
-a{
+.a-login{
     color: #596d48;
     text-decoration: none;
+}
+
+.a-footer{
+    color: white;
+}
+
+.forImage{
+    height: 40vh;
+}
+
+.forFooter{
+    height:  60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+.p-footer{
+    font-size: 13px;
 }
