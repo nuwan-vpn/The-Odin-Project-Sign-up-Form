@@ -33,7 +33,7 @@ body{
 }
 
 .first{
-    height: 33vh;
+    height: 40vh;
     display: flex;
     justify-content: flex-start;
     align-items: flex-end;
@@ -42,7 +42,7 @@ body{
 }
 
 .second{
-    height: 33vh;
+    height: 30vh;
     background-color: white;
     margin-left: 5%;
 }
@@ -91,6 +91,16 @@ input:focus{
 }
 
 .third{
-    height: 33vh;
+    height: 30vh;
     margin: 50px;
+}
+
+.login{
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+a{
+    color: #596d48;
+    text-decoration: none;
 }
